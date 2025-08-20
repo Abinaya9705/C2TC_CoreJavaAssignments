@@ -1,4 +1,4 @@
-package com.tnsif.assignment4;
+package com.abinaya.assignment4;
 
 class Bank {
     private static int totalAccounts = 0;  // static variable
